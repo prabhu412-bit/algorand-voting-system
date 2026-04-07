@@ -1,13 +1,27 @@
-# algorand Voting System
+# Algorand Voting System
 
-This project is a decentralized voting system built using Algorand blockchain.
+This project is a decentralized voting system built using the Algorand blockchain. It ensures secure, transparent, and tamper-proof elections.
 
 ## Features
-- Secure voting
-- Transparent results
-- Tamper-proof system
+- Secure voting mechanism
+- Transparent result tracking
+- Tamper-proof system using blockchain
+- Decentralized architecture
 
 ## Technologies Used
-- Algorand
+- Algorand Blockchain
 - Python
 - Smart Contracts
+
+## Project Structure
+- `contracts/` → Smart contract code
+- `scripts/` → Deployment scripts
+- `README.md` → Project documentation
+
+## Future Improvements
+- User authentication system
+- Web-based voting interface
+- Real-time result dashboard
+
+## Author
+Srikar
